@@ -1,7 +1,7 @@
 /*! SVG Türkiye Haritası | MIT Lisans | dnomak.com */
 
 function svgturkiyeharitasi() {
-  const gdg ={"adana":"GDG-Adana","ankara":"GDGAnkara","antalya":"GDGAntalya","bolu":"GDGBolu","burdur":"gdgburdur","bursa":"GDGBursa","denizli":"GDGDenizli","edirne":"GDGEdirne","eskisehir":"gdgeskisehir","hatay":"gdghatay","isparta":"GdgIsparta","mersin":"GDG-Mersin","istanbul":"GDGIstanbul","izmir":"GDG-Izmir","kayseri":"GDG-Kayseri","kocaeli":"GDGKocaeli","konya":"GDGKonya","kutahya":"GDG-Kutahya", "manisa":"GDG-Manisa", "samsun":"GDG-Samsun", "tekirdag":"gdgtekirdag", "trabzon":"GDGTrabzon", "sivas":"meetup-group-KQsayXeh", "sanliurfa":"GDG-Sanliurfa", "duzce":"GDG-Duzce-Meetup" }
+  const gdg ={"adana":"GDG-Adana","ankara":"GDGAnkara","antalya":"GDGAntalya","bolu":"GDGBolu","burdur":"gdgburdur","bursa":"GDGBursa","denizli":"GDGDenizli","edirne":"GDGEdirne","eskisehir":"gdgeskisehir","hatay":"gdghatay","isparta":"GdgIsparta","mersin":"GDG-Mersin","istanbul":"GDGIstanbul","izmir":"GDG-Izmir","kayseri":"GDG-Kayseri","kocaeli":"GDGKocaeli","konya":"GDGKonya","kutahya":"GDG-Kutahya", "manisa":"GDG-Manisa", "samsun":"GDG-Samsun", "tekirdag":"gdgtekirdag", "trabzon":"GDGTrabzon", "sivas":"GDGSivas", "sanliurfa":"GDG-Sanliurfa", "duzce":"GDG-Duzce-Meetup" }
   const element = document.querySelector('#svg-turkiye-haritasi');
   const info = document.querySelector('.il-isimleri');
   const imge = document.querySelector('.imge');
