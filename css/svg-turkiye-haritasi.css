@@ -34,11 +34,12 @@
 #svg-turkiye-haritasi {
   cursor: pointer;
   fill: #474747;
+  margin-top: 70px;
 }
 .gdg {
   fill: #c70020;
 }
-.gdg path:hover {
+.gdg :hover {
   fill: #c70021ab;
 }
 #guney-kibris {
@@ -47,5 +48,14 @@
 h1 {
   text-align: center;
   font-size: 3em;
+  color: #474747;
   margin-bottom: 35px;
+}
+h4 {
+  text-align: center;
+  color: #474747;
+}
+h4 a {
+  text-decoration: none;
+  color: blue;
 }
